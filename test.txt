@@ -1,0 +1,5 @@
+what is your name?
+are you sure this is working or am i just doing rubbish because im trying to reinforce my knowledge here. this is me testing the cat cmd from my terminal.
+this folder is created for testing things and not for documentation
+
+peace out
